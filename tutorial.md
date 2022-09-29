@@ -24,6 +24,7 @@ Give sudo permission to user hadoop:
 sudo adduser hadoop sudo
 ```
 **ATTENTION!!!**
+
 Switch Linux login user (via Ubuntu UI) to **hadoop** to process steps below.
 
 upgrade apt
